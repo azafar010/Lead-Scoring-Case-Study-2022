@@ -18,12 +18,10 @@ An education company named X Education sells online courses to industry professi
 - Prediction on the Test Set
 - Precision- Recall
 
-## Details of files given:
+## Details of Files given:
 - Lead_Scoring_Group_Case_Study - November 2022 : The python file displaying the code and data analysis.
 - Lead_Scoring_Case_Study_PPT : A Powerpoint Presentation in PDF format based on the Case Study.
 - Lead_Scoring_Assignment_Subjective_Questions_Answers : A PDF file containing answers to the subjective questions.
 - Summary.pdf : A PDF file containing Summary on what's done in the entire python notebook.
 - Leads: A CSV File Data set provided by upGrad.
 - Leads Data Dictionary : An XLS File Data Dictionary for data set provided by upGrad.
-
-
